@@ -1,0 +1,58 @@
+ <!DOCTYPE html>
+ <html>
+    <head>
+        <title> #Bookgirls </title>
+        <style> 
+        p {
+        color: pink;
+        font-family: "Didot", serif;
+        font-size: 15px;
+        font-weight: bold;
+        }
+        h2 {
+        color: yellow;
+        font-family: "Blippo", fantasy;
+        font-size: 1.5em
+        }
+        h1 {color: yellow;
+        font-family: "Trattatello", fantasy
+        }
+        ul {
+        color: pink;
+        font-family: "Didot", serif;
+        font-size: 15px;
+        font-weight: bold;
+        }
+        ol {
+        color: pink;
+        font-family: "Didot", serif;
+        font-size: 15px;
+        font-weight: bold;
+        }
+        </style>
+ </head>
+            <body>
+                <h1> #Bookgirls Rule </h1>
+<h2> Hi! </h2>
+<p> Hi! I'm in 7'th grade, and I'm Christine Tawiah. I created this club for a few reasons:
+  <ol>
+    <li> I love reading, and I want to be able to share this joy with others </li>
+    <li> I want people who don't get access to books routinely to be able to experience reading like we all do </li>
+    <li> Sometimes, I prefer to read with others who get it, than only by myself </li>
+    </ol> </p>
+   <p> I mean, I guess there could be more reasons, but those are the main three.
+  <em> Anyways, </em> That's enough about me. I also need to know about <em> you! </em> I'm putting a google form here just for me to get to know you, and you can answer as much as you like or as little as you like. <br> (later I'm going to enter the link, hint to me) <br> </p>
+<h2> Welcome to the club! </h2>
+<p> You said yes, didn't you? Then like my heading says, 'Welcome to the club!' Monthly, we are going to be reading a book. At the beginning of the month, I will also send out a form to keep track of how much pages each of us are reading. We will try to meet every other week, twice a month. During these times, we must only talk about the pages <em> all </em> of us have read. I can't stress that enough. I want it to be fair, so <strong> <em> no one </em> </strong> <em> will give anyone spoliers about what happens next. </em> We don't want to destroy the fun of reading it, now do we? Do I sound like one of those evil characters who just blurt out random things that don't make any sense, like in books or movies?</p>
+               <img src="https://images.app.goo.gl/9vV8TU3KXfkEjxUy9">
+              <p> #Bookgirls might have a account on social media one day... but for now, it is just to stay among friends and chat about good books! Another mission for #Bookgirls is to get books to those who don't have access to them. When my parents grew up, their country, Ghana, was underdeveloped, and they didn't have access to books as frequently as we do (They only had access to books at school, and they could only keep them at home for one day.). If you have any books that you are uninterested in, or are too young for your age level (if you still want to keep them, that's fine), it would be great if you would donate them to me, so my dad and I could ship it off to kids who don't have access to books like we do. <br> Have you gotten the basic rundown? We want to be able to give access to books to kids who don't have that access, and to be able our own books and our own ideas in real time. Hopefully, we'll grow on each other, and we can eventually become a reading group that relies on each other! Right now, I'm going to give you tips on book series that I like to read:
+              <ul>
+                <li> Keeper of the Lost Cities: Shannon Messenger </li>
+                <li> Children of... (There are two, of blood and bone, and of virtue and vengeance): Tomi Adeyemi </li>
+                <li> Harry Potter: JK Rowling </li>
+                <li> The Unwanted Quests: Lisa McMann</li>
+                <li> The Kane Chronicles: Rick Riordan </li>
+                </ul>
+              </p>
+                </body>
+                </html>
